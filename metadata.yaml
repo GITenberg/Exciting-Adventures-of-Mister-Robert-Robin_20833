@@ -1,0 +1,28 @@
+_repo: Exciting-Adventures-of-Mister-Robert-Robin_20833
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oldfield, Reuben Bertram
+    alias: Field, Ben
+    birthdate: 1878
+    gutenberg_agent_id: '9551'
+    url: http://www.gutenberg.org/2009/agents/9551
+description: ''
+gutenberg_issued: '2007-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20833'
+  lccn: '28014493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robins -- Juvenile fiction'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcc 'PZ'
+title: Exciting Adventures of Mister Robert Robin
+url: http://www.gutenberg.org/ebooks/20833
